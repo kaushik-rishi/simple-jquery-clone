@@ -1,5 +1,7 @@
 #### Simple JQuery Clone with Vanilla JS
 
+**Code Length:** 40 lines
+
 - Replicating basic 3-4 features of jquery using Vanilla JS
 
 #### Checklist
